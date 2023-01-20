@@ -1,4 +1,4 @@
-I wrote Custom SQL Queries to analyze the Covid-19 Deaths and Vaccinations Dataset available publically.
+I wrote Custom SQL Queries to analyze the Covid-19 Deaths and Vaccinations Dataset available publically.<br>
 I discovered the following things-
 1. I found out the countries with Highest Infection Rate compared to populationm.Cyprus,San Marino and Faeroe Islands have the highest infection rate.<br>
 2. I found out that United States,Brazil and India were the 3 Countries with the highest Total Death Count.<br>
